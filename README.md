@@ -1,7 +1,6 @@
 # Menopause EHR
 
-This is the code for reproducing results from the paper: Characterization of menopause onset and associated disease risks1
-using large-scale electronic health records
+This is the code for reproducing results from the paper: "Characterization of menopause onset and associated disease risks using large-scale electronic health records"
 
 We identify a menopause cohort from ICD-10 codes in two health systems (UCSF Health and the San Francisco Department of Public Health), extract menopause symptoms from clinical notes with a two-stage keyword and LLM pipeline, relate adverse pregnancy outcomes to age at first menopause-related diagnosis, and compare disease risk after diagnosis to age-matched men.
 
